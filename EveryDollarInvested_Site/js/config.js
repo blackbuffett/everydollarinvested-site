@@ -10,7 +10,7 @@ window.BABYCOINZ_CONFIG = {
     endpoints: {
       convertkit: {
         action: 'https://api.convertkit.com/v3/forms/8494037/subscribe',
-        api_key: 'API_KEY_HERE'   // <-- paste your real ConvertKit API Key
+        api_key: 'h-8NE1V4SLGUOu6-lJeEyQ'   
       }
     }
   }
